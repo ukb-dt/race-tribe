@@ -19,7 +19,7 @@
 {% endraw %}
 
 <div>
-  <img src="race/tribe.jpg" width="39%" height="350px">
+  <img src="race/tribe.jpg" width="39%" height="500px">
 </div>
 
 # A
